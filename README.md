@@ -1,2 +1,2 @@
-# toys_ds_project
+# ds_project
 Group project for DSCI100
