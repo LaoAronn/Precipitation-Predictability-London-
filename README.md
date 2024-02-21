@@ -1,1 +1,2 @@
 # Can we accurately predict precipitation rates in London?
+London is one of the world’s busiest cities, so rain can lead to significant disruptions in traffic. In this study, we will use a dataset by the European Climate Assessment (https://www.ecad.eu/dailydata/index.php) and predict precipitation rates in London using K-nearest neighbors regression. The file 'G34_Final' will have our finalised findings with scientific reasoning for the prediction of precipitation levels in London.
